@@ -1,0 +1,12 @@
+tensorflow
+numpy
+pandas
+matplotlib
+scipy
+librosa
+PyWavelets
+scikit-learn
+imbalanced-learn
+soundfile
+tqdm
+jupyter
