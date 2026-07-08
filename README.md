@@ -286,7 +286,7 @@ The notebook performs:
 
 # 👨‍💻 Authors
 
-**Shubhajyoti Mitra**
+**Ronak Mehlawat**
 
 Electronics & Communication Engineering (Minor in Computer Science)
 
