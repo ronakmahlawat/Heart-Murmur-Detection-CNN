@@ -1,4 +1,4 @@
-# ❤️ Heart Murmur Detection using Deep Learning (CNN)
+#  Heart Murmur Detection using Deep Learning (CNN)
 
 An end-to-end Deep Learning project for automatic **Heart Murmur Detection** from **Phonocardiogram (PCG) heart sound recordings** using **Convolutional Neural Networks (CNN)**.
 
@@ -286,7 +286,7 @@ The notebook performs:
 
 # 👨‍💻 Authors
 
-**Ronak Mehlawat**
+**Ronak Mahlawat**
 
 Electronics & Communication Engineering (Minor in Computer Science)
 
